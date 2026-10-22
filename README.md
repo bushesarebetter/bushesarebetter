@@ -2,7 +2,7 @@
 
 # bushesarebetter
 
-I like understanding an idea well enough to implement it and watch it work. These projects explore numerical simulations, language tools, and small reproductions of machine learning papers.
+My main learning method is to build whatever I'm trying to learn about! Come check out some of the projects I've built over time
 
 **Python · NumPy · PyTorch**
 
