@@ -10,25 +10,16 @@ I like understanding an idea well enough to implement it and watch it work. Thes
 
 ## In motion
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/bushesarebetter/fourier-epicycles"><img src="https://raw.githubusercontent.com/bushesarebetter/fourier-epicycles/main/demo.gif" alt="Rotating Fourier epicycles tracing a star" width="240"></a>
-      <br><a href="https://github.com/bushesarebetter/fourier-epicycles"><b>Fourier epicycles</b></a>
-      <br><sub>A drawing, rebuilt from spinning circles.</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/bushesarebetter/stable-fluids"><img src="https://raw.githubusercontent.com/bushesarebetter/stable-fluids/main/fluid.gif" alt="Dye swirling through a two-dimensional fluid simulation" width="240"></a>
-      <br><a href="https://github.com/bushesarebetter/stable-fluids"><b>Stable fluids</b></a>
-      <br><sub>Dye advection in a 2D fluid.</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/bushesarebetter/barnes-hut-nbody"><img src="https://raw.githubusercontent.com/bushesarebetter/barnes-hut-nbody/main/galaxies.gif" alt="Two simulated galaxies interacting under gravity" width="240"></a>
-      <br><a href="https://github.com/bushesarebetter/barnes-hut-nbody"><b>Barnes–Hut gravity</b></a>
-      <br><sub>A quadtree behind a galaxy collision.</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/bushesarebetter/fourier-epicycles"><img src="https://raw.githubusercontent.com/bushesarebetter/fourier-epicycles/main/demo.gif" alt="Rotating Fourier epicycles tracing a star" width="30%"></a>
+  <a href="https://github.com/bushesarebetter/stable-fluids"><img src="https://raw.githubusercontent.com/bushesarebetter/stable-fluids/main/fluid.gif" alt="Dye swirling through a two-dimensional fluid simulation" width="30%"></a>
+  <a href="https://github.com/bushesarebetter/barnes-hut-nbody"><img src="https://raw.githubusercontent.com/bushesarebetter/barnes-hut-nbody/main/galaxies.gif" alt="Two simulated galaxies interacting under gravity" width="30%"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/bushesarebetter/fourier-epicycles">Fourier epicycles</a> ·
+  <a href="https://github.com/bushesarebetter/stable-fluids">Stable fluids</a> ·
+  <a href="https://github.com/bushesarebetter/barnes-hut-nbody">Barnes–Hut gravity</a>
+</p>
 
 ## Selected work
 
