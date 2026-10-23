@@ -6,7 +6,19 @@ My main learning method is to build whatever I'm trying to learn about! Come che
 
 **Python · NumPy · PyTorch**
 
-[Selected work](#selected-work) · [Project index](#project-index) · [Paper implementations](#paper-implementations)
+[Visit the gallery](https://bushesarebetter.github.io/algorithm-playground/) · [Try the playground](https://bushesarebetter.github.io/algorithm-playground/playground/) · [Project index](#project-index)
+
+## Try it out
+
+Compare maze searches, steer a flock, or play Connect Four in the [interactive playground](https://bushesarebetter.github.io/algorithm-playground/playground/).
+
+| Project | Explore |
+|---|---|
+| [Security Log Analyzer](https://github.com/bushesarebetter/security-log-analyzer) | A local authentication-log tool with evidence-linked findings and synthetic examples. |
+| [Paper benchmarks](https://github.com/bushesarebetter/paper-benchmarks) | Matched Grokfast experiments across three seeds, with raw results and execution records. |
+| [ReceiptScanner demo](https://bushesarebetter.github.io/ReceiptScanner/demo/) | Correct fictional receipts, review a queue, and export approved records in your browser. |
+
+Read the engineering notes on [conflict learning in SAT](https://github.com/bushesarebetter/sat-solver/blob/main/docs/engineering.md) and [continuous thoughts in Coconut](https://github.com/bushesarebetter/coconut-latent-reasoning/blob/main/docs/engineering.md).
 
 ## In motion
 
